@@ -1,22 +1,13 @@
-var CACHE_NAME = "Moldpia";
+var CACHE_NAME = "NicePAY";
 var CACHED_URLS = [
   "index.html",
   "IconResHigh.png",
   "IconResLow.png",
   "IconResMid.png",
   "Manifest.json",
-  "Moldpia.js",
-  "uMOLDPIA.btn_login.Bitmaps.Bitmap.svg",
-  "uMOLDPIA.btn_login.Bitmaps.Bitmap_1.svg",
-  "uMOLDPIA.btn_search_magam.Bitmaps.Bitmap.svg",
-  "uMOLDPIA.btn_search_nabpum.Bitmaps.Bitmap.svg",
-  "uMOLDPIA.html",
-  "uMOLDPIA.page_ctr.ButtonAppearance.CloseIcon.svg",
-  "uMOLDPIA.page_ctr.ButtonAppearance.InsertIcon.svg",
-  "uMOLDPIA.page_ctr.ButtonAppearance.ScrollNextIcon.svg",
-  "uMOLDPIA.page_ctr.ButtonAppearance.ScrollPreviousIcon.svg",
-  "uMOLDPIA.page_ctr.ButtonAppearance.TabListIcon.svg",
-  "uMOLDPIA.pnl_magam_top.wbwtmsg.Picture.gif"
+  "NicePAY.js",
+  "uMAIN.html",
+  "uMAIN.pnl_body.wbwtmsg.Picture.gif"
   ];
 
 self.addEventListener('install', function(event) {
